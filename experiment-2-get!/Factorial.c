@@ -1,4 +1,4 @@
-#include<iostream>
+#include<stdio.h>
 #include"include/Factorial.h"
 #define LEN 10005 
 using namespace std;
