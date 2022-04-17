@@ -24,7 +24,7 @@ void GetFact(int n){
 	int cnt=0;
 	for(int i=1;ans[i]!=-1;i++) cnt++;
 	printf("%d! = ",n);
-	for(int i=cnt;i>0;i--) printf("%c",ans[i]);
+	for(int i=cnt;i>0;i--) printf("%d",ans[i]);
 	printf("\n");
 	return;
 }
