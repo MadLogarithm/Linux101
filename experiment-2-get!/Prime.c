@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<math.h>
+#include"include/Prime.h"
 using namespace std;
 void IsPrime(int x){
 	int k=sqrt(x);

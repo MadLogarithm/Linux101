@@ -1,6 +1,6 @@
 #include<stdio.h>
-#include"Factorial.h"
-#include"Prime.h"
+#include"include/Factorial.h"
+#include"include/Prime.h"
 int main()
 {
 	int n = 20;

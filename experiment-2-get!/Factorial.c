@@ -1,4 +1,5 @@
 #include<iostream>
+#include"include/Factorial.h"
 #define LEN 10005 
 using namespace std;
 void GetFact(int n){
